@@ -15,5 +15,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
     <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="html5" width="80" height="80"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="html5" width="100" height="100"/> 
     </a>
