@@ -2,7 +2,7 @@
 <h3 align="center">Web fullstack developer</h3>
 <h3 align="center">.Net & Angular</h3>
 
-
+<h3 align="center">------------</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
