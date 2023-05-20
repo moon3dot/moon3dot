@@ -11,7 +11,7 @@
 - 📝 I regularly write articles on [https://seongjaemoon.github.io/](https://seongjaemoon.github.io)
 
 ---
-
+<div style="background-color: aliceblue;">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" background="reb">  
     <a href="https://git-scm.com/" target="_blank"> 
@@ -78,3 +78,4 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
     </a>
 </p>
+</div>
